@@ -1,1 +1,2 @@
-hi, small b kid 
+new line
+append line
